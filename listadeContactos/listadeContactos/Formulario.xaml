@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="listadeContactos.Formulario">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Nombres"></Label>
+            <Entry Text="{Binding Nombre}" HorizontalOptions="StartAndExpand"></Entry>
+            <Label Text="Apellido" HorizontalOptions="StartAndExpand"></Label>
+            <Entry Text="{Binding Apellido}" HorizontalOptions="StartAndExpand"></Entry>
+            <Label Text="Celular" HorizontalOptions="StartAndExpand"></Label>
+            <Entry Text="{Binding Celular}" HorizontalOptions="StartAndExpand" ></Entry>
+       
+           
+            <Button Text="Crear" Clicked="Button_Clicked" ></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

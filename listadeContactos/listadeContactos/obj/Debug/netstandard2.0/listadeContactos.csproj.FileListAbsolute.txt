@@ -1,0 +1,16 @@
+C:\Users\USUARIO\source\repos\listadeContactos\listadeContactos\listadeContactos\bin\Debug\netstandard2.0\listadeContactos.deps.json
+C:\Users\USUARIO\source\repos\listadeContactos\listadeContactos\listadeContactos\bin\Debug\netstandard2.0\listadeContactos.dll
+C:\Users\USUARIO\source\repos\listadeContactos\listadeContactos\listadeContactos\bin\Debug\netstandard2.0\listadeContactos.pdb
+C:\Users\USUARIO\source\repos\listadeContactos\listadeContactos\listadeContactos\obj\Debug\netstandard2.0\listadeContactos.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\listadeContactos\listadeContactos\listadeContactos\obj\Debug\netstandard2.0\listadeContactos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\listadeContactos\listadeContactos\listadeContactos\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\USUARIO\source\repos\listadeContactos\listadeContactos\listadeContactos\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\USUARIO\source\repos\listadeContactos\listadeContactos\listadeContactos\obj\Debug\netstandard2.0\listadeContactos.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\listadeContactos\listadeContactos\listadeContactos\obj\Debug\netstandard2.0\listadeContactos.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\listadeContactos\listadeContactos\listadeContactos\obj\Debug\netstandard2.0\listadeContactos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\listadeContactos\listadeContactos\listadeContactos\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\USUARIO\source\repos\listadeContactos\listadeContactos\listadeContactos\obj\Debug\netstandard2.0\listadeContactos.dll
+C:\Users\USUARIO\source\repos\listadeContactos\listadeContactos\listadeContactos\obj\Debug\netstandard2.0\refint\listadeContactos.dll
+C:\Users\USUARIO\source\repos\listadeContactos\listadeContactos\listadeContactos\obj\Debug\netstandard2.0\listadeContactos.pdb
+C:\Users\USUARIO\source\repos\listadeContactos\listadeContactos\listadeContactos\obj\Debug\netstandard2.0\ref\listadeContactos.dll
+C:\Users\USUARIO\source\repos\listadeContactos\listadeContactos\listadeContactos\obj\Debug\netstandard2.0\Formulario.xaml.g.cs
